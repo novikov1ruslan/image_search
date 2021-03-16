@@ -1,2 +1,1 @@
-# image_search
-Copy of https://github.com/codinginflow/ImageSearchApp
+Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED
